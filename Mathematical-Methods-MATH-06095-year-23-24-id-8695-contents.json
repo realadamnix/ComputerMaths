@@ -1,0 +1,2119 @@
+[
+  {
+    "id": 114040,
+    "name": "General",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 0,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 536753,
+        "url": "https://moodle.midwest.tus.ie/mod/forum/view.php?id=536753",
+        "name": "Announcements",
+        "instance": 18165,
+        "contextid": 914166,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/forum/1710336786/monologo?filtericon=1",
+        "modname": "forum",
+        "modplural": "Forums",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": []
+      },
+      {
+        "id": 573368,
+        "url": "https://moodle.midwest.tus.ie/mod/forum/view.php?id=573368",
+        "name": "Announcements",
+        "instance": 20559,
+        "contextid": 991646,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/forum/1710336786/monologo?filtericon=1",
+        "modname": "forum",
+        "modplural": "Forums",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": []
+      },
+      {
+        "id": 573369,
+        "url": "https://moodle.midwest.tus.ie/mod/forum/view.php?id=573369",
+        "name": "News forum",
+        "instance": 20560,
+        "contextid": 991647,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/forum/1710336786/monologo?filtericon=1",
+        "modname": "forum",
+        "modplural": "Forums",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": []
+      }
+    ]
+  },
+  {
+    "id": 114041,
+    "name": "Info",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 1,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 573371,
+        "name": "Lecturer: Mike O'Connell\nContact: Office 9C03 Tel...",
+        "instance": 40494,
+        "contextid": 991654,
+        "description": "<div class=\"no-overflow\"><p><strong>Lecturer: Mike O'Connell</strong></p>\n<p><strong>Contact: Office 9C03 Tele (061)293458 ext.3458&nbsp;</strong></p><p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email <a href=\"mailto:mike.oconnell@lit.ie\">mike.oconnell@lit.ie</a> </strong></p><p><br></p><p><br></p></div>",
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/label/1710336786/monologo?filtericon=1",
+        "modname": "label",
+        "modplural": "Text and media areas",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": true,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": []
+      }
+    ]
+  },
+  {
+    "id": 114042,
+    "name": "Past Exam Papers",
+    "visible": 0,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 2,
+    "hiddenbynumsections": 0,
+    "uservisible": false,
+    "modules": []
+  },
+  {
+    "id": 114043,
+    "name": "Mathematical Methods Autumn Repeat 2023",
+    "visible": 0,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 3,
+    "hiddenbynumsections": 0,
+    "uservisible": false,
+    "modules": []
+  },
+  {
+    "id": 114044,
+    "name": "Revision/Final Exam Preparation",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 4,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": []
+  },
+  {
+    "id": 125393,
+    "name": "Continuous Assessment 2024",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 5,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 573384,
+        "name": "Excel Assignment 2024 (worth 18%) must be complete...",
+        "instance": 40497,
+        "contextid": 991672,
+        "description": "<div class=\"no-overflow\"><p dir=\"ltr\" style=\"text-align: left;\"><strong>Excel Assignment 2024 (worth 18%) must be completed and uploaded by 6pm on the 8th March 2024. You will upload a single Excel file.</strong></p></div>",
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/label/1710336786/monologo?filtericon=1",
+        "modname": "label",
+        "modplural": "Text and media areas",
+        "indent": 2,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "\"\"",
+        "noviewlink": true,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155033,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": []
+      },
+      {
+        "id": 573385,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573385",
+        "name": "Excel Assignment (18%) 2024",
+        "instance": 324066,
+        "contextid": 991673,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1709922436,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Excel Assignment.docx",
+            "filepath": "/",
+            "filesize": 15816,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991673/mod_resource/content/2/Excel%20Assignment.docx?forcedownload=1",
+            "timecreated": 1707830444,
+            "timemodified": 1707830449,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 15816,
+          "lastmodified": 1707830449,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573386,
+        "url": "https://moodle.midwest.tus.ie/mod/assign/view.php?id=573386",
+        "name": "Upload your Excel Assignment here",
+        "instance": 60759,
+        "contextid": 991674,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/assign/1710336786/monologo?filtericon=1",
+        "modname": "assign",
+        "modplural": "Assignments",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"duedate\":1709921400,\"allowsubmissionsfromdate\":\"1707814800\"}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1709921284,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [
+          {
+            "label": "Opened:",
+            "timestamp": 1707814800,
+            "dataid": "allowsubmissionsfromdate"
+          },
+          {
+            "label": "Due:",
+            "timestamp": 1709921400,
+            "dataid": "duedate"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 125394,
+    "name": "Lectures",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 6,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 573391,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573391",
+        "name": "Introductory Lecture 2024",
+        "instance": 324068,
+        "contextid": 991679,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Intro lecture Jan 2024.pptx",
+            "filepath": "/",
+            "filesize": 43413,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991679/mod_resource/content/2/Intro%20lecture%20Jan%202024.pptx?forcedownload=1",
+            "timecreated": 1705152225,
+            "timemodified": 1705152230,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 43413,
+          "lastmodified": 1705152230,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573392,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573392",
+        "name": "Functions 1",
+        "instance": 324069,
+        "contextid": 991680,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Functions 1.pptx",
+            "filepath": "/",
+            "filesize": 478233,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991680/mod_resource/content/2/Functions%201.pptx?forcedownload=1",
+            "timecreated": 1705916296,
+            "timemodified": 1705916299,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 478233,
+          "lastmodified": 1705916299,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573393,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573393",
+        "name": "Exponential Graph Example",
+        "instance": 324070,
+        "contextid": 991681,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Exponential Graph Example.pptx",
+            "filepath": "/",
+            "filesize": 83867,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991681/mod_resource/content/1/Exponential%20Graph%20Example.pptx?forcedownload=1",
+            "timecreated": 1694426774,
+            "timemodified": 1694426774,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 83867,
+          "lastmodified": 1694426774,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573396,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573396",
+        "name": "Functions 2",
+        "instance": 324071,
+        "contextid": 991684,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Functions 2.pptx",
+            "filepath": "/",
+            "filesize": 535004,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991684/mod_resource/content/2/Functions%202.pptx?forcedownload=1",
+            "timecreated": 1706010011,
+            "timemodified": 1706010015,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 535004,
+          "lastmodified": 1706010015,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 668067,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=668067",
+        "name": "Functions 2 - slide 22 - Plotted graph",
+        "instance": 379443,
+        "contextid": 1117075,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Graph for Functions 2 -slide 22.docx",
+            "filepath": "/",
+            "filesize": 19406,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1117075/mod_resource/content/1/Graph%20for%20Functions%202%20-slide%2022.docx?forcedownload=1",
+            "timecreated": 1707301115,
+            "timemodified": 1707301118,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 19406,
+          "lastmodified": 1707301118,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573400,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573400",
+        "name": "Trigonometric graphs - another example",
+        "instance": 324074,
+        "contextid": 991688,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Trigonometric graphs - example.docx",
+            "filepath": "/",
+            "filesize": 29301,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991688/mod_resource/content/1/Trigonometric%20graphs%20-%20example.docx?forcedownload=1",
+            "timecreated": 1694426776,
+            "timemodified": 1694426776,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 29301,
+          "lastmodified": 1694426776,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573401,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573401",
+        "name": "Matrices 1",
+        "instance": 324075,
+        "contextid": 991689,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "matrices1.pptx",
+            "filepath": "/",
+            "filesize": 372644,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991689/mod_resource/content/1/matrices1.pptx?forcedownload=1",
+            "timecreated": 1694426776,
+            "timemodified": 1694426776,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 372644,
+          "lastmodified": 1694426776,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573403,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573403",
+        "name": "Matrices 2",
+        "instance": 324076,
+        "contextid": 991691,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "matrices2.pptx",
+            "filepath": "/",
+            "filesize": 562701,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991691/mod_resource/content/1/matrices2.pptx?forcedownload=1",
+            "timecreated": 1694426777,
+            "timemodified": 1694426777,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 562701,
+          "lastmodified": 1694426777,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573404,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573404",
+        "name": "Determinant example",
+        "instance": 324077,
+        "contextid": 991692,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Matrices 2 - example.pptx",
+            "filepath": "/",
+            "filesize": 102603,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991692/mod_resource/content/1/Matrices%202%20-%20example.pptx?forcedownload=1",
+            "timecreated": 1694426777,
+            "timemodified": 1694426777,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 102603,
+          "lastmodified": 1694426777,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573406,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573406",
+        "name": "Matrices 3 - Cramer's Rule",
+        "instance": 324078,
+        "contextid": 991694,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Matrices_3.docx",
+            "filepath": "/",
+            "filesize": 17700,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991694/mod_resource/content/1/Matrices_3.docx?forcedownload=1",
+            "timecreated": 1694426777,
+            "timemodified": 1694426777,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 17700,
+          "lastmodified": 1694426777,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573407,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573407",
+        "name": "Matrices 4 - Cramer's Rule on 3 equations in 3 unknowns",
+        "instance": 324079,
+        "contextid": 991695,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Matrices 4- 2021.pptx",
+            "filepath": "/",
+            "filesize": 304886,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991695/mod_resource/content/1/Matrices%204-%202021.pptx?forcedownload=1",
+            "timecreated": 1694426778,
+            "timemodified": 1694426778,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 304886,
+          "lastmodified": 1694426778,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573412,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573412",
+        "name": "Set Theory 1",
+        "instance": 324082,
+        "contextid": 991700,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Set Theory 1.pptx",
+            "filepath": "/",
+            "filesize": 97820,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991700/mod_resource/content/1/Set%20Theory%201.pptx?forcedownload=1",
+            "timecreated": 1694426779,
+            "timemodified": 1694426779,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 97820,
+          "lastmodified": 1694426779,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573413,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573413",
+        "name": "Set Theory 2 (2023)",
+        "instance": 324083,
+        "contextid": 991701,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Set Theory 2 - updated.pptx",
+            "filepath": "/",
+            "filesize": 578053,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991701/mod_resource/content/1/Set%20Theory%202%20-%20updated.pptx?forcedownload=1",
+            "timecreated": 1694426779,
+            "timemodified": 1694426779,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 578053,
+          "lastmodified": 1694426779,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 676622,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=676622",
+        "name": "Summer 2023 Set Theory Exam Question",
+        "instance": 384694,
+        "contextid": 1126698,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Summer 2023 Set Theory Question.docx",
+            "filepath": "/",
+            "filesize": 13753,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1126698/mod_resource/content/1/Summer%202023%20Set%20Theory%20Question.docx?forcedownload=1",
+            "timecreated": 1709639377,
+            "timemodified": 1709639382,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 13753,
+          "lastmodified": 1709639382,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573422,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573422",
+        "name": "Coordinate Geometry",
+        "instance": 324086,
+        "contextid": 991710,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Section3Geometry.docx",
+            "filepath": "/",
+            "filesize": 282817,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991710/mod_resource/content/1/Section3Geometry.docx?forcedownload=1",
+            "timecreated": 1694426782,
+            "timemodified": 1694426782,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 282817,
+          "lastmodified": 1694426782,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573423,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573423",
+        "name": "Coordinate Geometry formulae",
+        "instance": 324087,
+        "contextid": 991711,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Coordinate Geometry Formulae.docx",
+            "filepath": "/",
+            "filesize": 18285,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991711/mod_resource/content/1/Coordinate%20Geometry%20Formulae.docx?forcedownload=1",
+            "timecreated": 1694426783,
+            "timemodified": 1694426783,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 18285,
+          "lastmodified": 1694426783,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573424,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573424",
+        "name": "Coordinate Geometry Slides",
+        "instance": 324088,
+        "contextid": 991712,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/powerpoint-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Coordinate geometry.pptx",
+            "filepath": "/",
+            "filesize": 187220,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991712/mod_resource/content/2/Coordinate%20geometry.pptx?forcedownload=1",
+            "timecreated": 1694426783,
+            "timemodified": 1694426783,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 187220,
+          "lastmodified": 1694426783,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          ],
+          "repositorytype": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": 125395,
+    "name": "Tutorials (-Tutorials will start on week of Monday 22nd 2024)",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 7,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 573432,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573432",
+        "name": "Tutorial Sheet 1 - Functions (for week beginning 22/1/24)",
+        "instance": 324091,
+        "contextid": 991720,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155004,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 1 Functions.docx",
+            "filepath": "/",
+            "filesize": 47734,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991720/mod_resource/content/1/Tutorial%20Sheet%201%20Functions.docx?forcedownload=1",
+            "timecreated": 1694426786,
+            "timemodified": 1694426786,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 47734,
+          "lastmodified": 1694426786,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573433,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573433",
+        "name": "Tutorial Sheet 2 - Functions (week 29/01/24)",
+        "instance": 324092,
+        "contextid": 991721,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155005,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 2 Functions.docx",
+            "filepath": "/",
+            "filesize": 15933,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991721/mod_resource/content/2/Tutorial%20Sheet%202%20Functions.docx?forcedownload=1",
+            "timecreated": 1706010255,
+            "timemodified": 1706010259,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 15933,
+          "lastmodified": 1706010259,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573434,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573434",
+        "name": "Graph for Tutorial Sheet 2 Q2",
+        "instance": 324093,
+        "contextid": 991722,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/spreadsheet-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155006,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial sheet 2 - Q2.xlsx",
+            "filepath": "/",
+            "filesize": 16643,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991722/mod_resource/content/2/Tutorial%20sheet%202%20-%20Q2.xlsx?forcedownload=1",
+            "timecreated": 1706008657,
+            "timemodified": 1706008662,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 16643,
+          "lastmodified": 1706008662,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573435,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573435",
+        "name": "Tutorial Sheet 3 Functions (week beginning 5/02/24)",
+        "instance": 324094,
+        "contextid": 991723,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155007,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 3 Functions.docx",
+            "filepath": "/",
+            "filesize": 13215,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991723/mod_resource/content/1/Tutorial%20Sheet%203%20Functions.docx?forcedownload=1",
+            "timecreated": 1694426787,
+            "timemodified": 1694426787,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 13215,
+          "lastmodified": 1694426787,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573436,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573436",
+        "name": "Graph for Q3 Tutorial Sheet 3",
+        "instance": 324095,
+        "contextid": 991724,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 1,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155009,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Q3 TS3.docx",
+            "filepath": "/",
+            "filesize": 31963,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991724/mod_resource/content/1/Q3%20TS3.docx?forcedownload=1",
+            "timecreated": 1694426788,
+            "timemodified": 1694426788,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 31963,
+          "lastmodified": 1694426788,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 669094,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=669094",
+        "name": "Tutorial Sheet 4 Functions and Matrices (week beginning 19th Feb 2024)",
+        "instance": 380074,
+        "contextid": 1118233,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155010,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 4 Matrices 2024.docx",
+            "filepath": "/",
+            "filesize": 17945,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1118233/mod_resource/content/1/Tutorial%20Sheet%204%20Matrices%202024.docx?forcedownload=1",
+            "timecreated": 1707405067,
+            "timemodified": 1707405075,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 17945,
+          "lastmodified": 1707405075,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 672679,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=672679",
+        "name": "Tutorial Sheet 5 (week beginning 26th Feb 2024)",
+        "instance": 382246,
+        "contextid": 1122504,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155011,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 5 Matrices.docx",
+            "filepath": "/",
+            "filesize": 17258,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1122504/mod_resource/content/1/Tutorial%20Sheet%205%20Matrices.docx?forcedownload=1",
+            "timecreated": 1708613660,
+            "timemodified": 1708613664,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 17258,
+          "lastmodified": 1708613664,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 674556,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=674556",
+        "name": "Tutorial Sheet 6 - Matrices (week beginning 4th March 2024)",
+        "instance": 383382,
+        "contextid": 1124514,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155014,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 6 - Matrices.docx",
+            "filepath": "/",
+            "filesize": 13939,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1124514/mod_resource/content/1/Tutorial%20Sheet%206%20-%20Matrices.docx?forcedownload=1",
+            "timecreated": 1709111541,
+            "timemodified": 1709111544,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 13939,
+          "lastmodified": 1709111544,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 677874,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=677874",
+        "name": "Tutorial Sheet 7 - Set Theory (week beginning 11th March 2024)",
+        "instance": 385451,
+        "contextid": 1128009,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 7-SetTheory.docx",
+            "filepath": "/",
+            "filesize": 15856,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/1128009/mod_resource/content/1/Tutorial%20Sheet%207-SetTheory.docx?forcedownload=1",
+            "timecreated": 1709739465,
+            "timemodified": 1709739470,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 15856,
+          "lastmodified": 1709739470,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573442,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573442",
+        "name": "Tutorial Sheet 8 - Set Theory (for week beginning 18th March 2024)",
+        "instance": 324101,
+        "contextid": 991730,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 0,
+          "timecompleted": 0,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Tutorial Sheet 8-Set Theory 2.docx",
+            "filepath": "/",
+            "filesize": 15234,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991730/mod_resource/content/2/Tutorial%20Sheet%208-Set%20Theory%202.docx?forcedownload=1",
+            "timecreated": 1710427616,
+            "timemodified": 1710427631,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 15234,
+          "lastmodified": 1710427631,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      }
+    ]
+  },
+  {
+    "id": 125396,
+    "name": "Practicals (Labs) - will start on week of 29th Jan 2024",
+    "visible": 1,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 8,
+    "hiddenbynumsections": 0,
+    "uservisible": true,
+    "modules": [
+      {
+        "id": 573472,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573472",
+        "name": "Plotting Graphs in Excel 1",
+        "instance": 324129,
+        "contextid": 991760,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Plotting graphs in Excel - Stage1.docx",
+            "filepath": "/",
+            "filesize": 678737,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991760/mod_resource/content/1/Plotting%20graphs%20in%20Excel%20-%20Stage1.docx?forcedownload=1",
+            "timecreated": 1694426797,
+            "timemodified": 1694426797,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 678737,
+          "lastmodified": 1694426797,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573473,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573473",
+        "name": "Plotting Graphs in Excel 2",
+        "instance": 324130,
+        "contextid": 991761,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Plotting graphs in Excel 2.docx",
+            "filepath": "/",
+            "filesize": 296215,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991761/mod_resource/content/1/Plotting%20graphs%20in%20Excel%202.docx?forcedownload=1",
+            "timecreated": 1694426797,
+            "timemodified": 1694426797,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "allrightsreserved"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 296215,
+          "lastmodified": 1694426797,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573474,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573474",
+        "name": "Excel Assignment Sample Question and Sample Solution",
+        "instance": 324131,
+        "contextid": 991762,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/document-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155018,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Excel Assignment sample question and sample solution.docx",
+            "filepath": "/",
+            "filesize": 205328,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991762/mod_resource/content/1/Excel%20Assignment%20sample%20question%20and%20sample%20solution.docx?forcedownload=1",
+            "timecreated": 1694426798,
+            "timemodified": 1694426798,
+            "sortorder": 1,
+            "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 205328,
+          "lastmodified": 1694426798,
+          "mimetypes": [
+            "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573477,
+        "url": "https://moodle.midwest.tus.ie/mod/quiz/view.php?id=573477",
+        "name": "Lab Quiz - Matrices - week 26th Feb 2024",
+        "instance": 8560,
+        "contextid": 991765,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/quiz/1710336786/monologo?filtericon=1",
+        "modname": "quiz",
+        "modplural": "Quizzes",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"timeopen\":\"1708938000\",\"timeclose\":\"1725630300\"}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [
+          {
+            "label": "Opened:",
+            "timestamp": 1708938000,
+            "dataid": "timeopen"
+          },
+          {
+            "label": "Closes:",
+            "timestamp": 1725630300,
+            "dataid": "timeclose"
+          }
+        ]
+      },
+      {
+        "id": 573475,
+        "url": "https://moodle.midwest.tus.ie/mod/quiz/view.php?id=573475",
+        "name": "Lab Quiz 2 - Matrices - week 4th March 2024",
+        "instance": 8559,
+        "contextid": 991763,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/quiz/1710336786/monologo?filtericon=1",
+        "modname": "quiz",
+        "modplural": "Quizzes",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"timeopen\":\"1709542800\",\"timeclose\":\"1718301600\"}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [
+          {
+            "label": "Opened:",
+            "timestamp": 1709542800,
+            "dataid": "timeopen"
+          },
+          {
+            "label": "Closes:",
+            "timestamp": 1718301600,
+            "dataid": "timeclose"
+          }
+        ]
+      },
+      {
+        "id": 573476,
+        "url": "https://moodle.midwest.tus.ie/mod/resource/view.php?id=573476",
+        "name": "Matrices required for Lab Quiz 2 - Matrices - week 4th March 2024",
+        "instance": 324132,
+        "contextid": 991764,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/core/1710336786/f/pdf-24",
+        "modname": "resource",
+        "modplural": "Files",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"displayoptions\":\"a:1:{s:10:\\\"printintro\\\";i:1;}\",\"display\":5}",
+        "noviewlink": false,
+        "completion": 1,
+        "completiondata": {
+          "state": 1,
+          "timecompleted": 1710155059,
+          "overrideby": null,
+          "valueused": false,
+          "hascompletion": true,
+          "isautomatic": false,
+          "istrackeduser": true,
+          "uservisible": true,
+          "details": []
+        },
+        "downloadcontent": 1,
+        "dates": [],
+        "contents": [
+          {
+            "type": "file",
+            "filename": "Matrices for LabQuiz.pdf",
+            "filepath": "/",
+            "filesize": 91418,
+            "fileurl": "https://moodle.midwest.tus.ie/webservice/pluginfile.php/991764/mod_resource/content/1/Matrices%20for%20LabQuiz.pdf?forcedownload=1",
+            "timecreated": 1694426798,
+            "timemodified": 1694426798,
+            "sortorder": 1,
+            "mimetype": "application/pdf",
+            "isexternalfile": false,
+            "userid": 419,
+            "author": "Mike O' Connell",
+            "license": "unknown"
+          }
+        ],
+        "contentsinfo": {
+          "filescount": 1,
+          "filessize": 91418,
+          "lastmodified": 1694426798,
+          "mimetypes": [
+            "application/pdf"
+          ],
+          "repositorytype": ""
+        }
+      },
+      {
+        "id": 573478,
+        "url": "https://moodle.midwest.tus.ie/mod/quiz/view.php?id=573478",
+        "name": "Lab Quiz 3 - Set Theory......week 18/03/24",
+        "instance": 8561,
+        "contextid": 991766,
+        "visible": 1,
+        "uservisible": true,
+        "visibleoncoursepage": 1,
+        "modicon": "https://moodle.midwest.tus.ie/theme/image.php/catawesome/quiz/1710336786/monologo?filtericon=1",
+        "modname": "quiz",
+        "modplural": "Quizzes",
+        "indent": 0,
+        "onclick": "",
+        "afterlink": null,
+        "customdata": "{\"timeopen\":\"1710752400\",\"timeclose\":\"1729247520\"}",
+        "noviewlink": false,
+        "completion": 0,
+        "downloadcontent": 1,
+        "dates": [
+          {
+            "label": "Opens:",
+            "timestamp": 1710752400,
+            "dataid": "timeopen"
+          },
+          {
+            "label": "Closes:",
+            "timestamp": 1729247520,
+            "dataid": "timeclose"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 125397,
+    "name": "Continuous Assessment",
+    "visible": 0,
+    "summary": "",
+    "summaryformat": 1,
+    "section": 9,
+    "hiddenbynumsections": 0,
+    "uservisible": false,
+    "modules": []
+  }
+]
