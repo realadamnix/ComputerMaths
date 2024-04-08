@@ -27,7 +27,7 @@ We need to be able to use the following formulae:
 9. Drawing a line on the Cartesian plane (the x-y axis):
 
    - To draw a line, we need two points.
-   - 
+
    - Find two points on the line by solving for x and y when one of them is 0.
 10. Distance between a point (x, y) and a line with equation ax + by + c = 0:
     - Formula: `d = abs(ax + by + c) / sqrt(a^2 + b^2)`
