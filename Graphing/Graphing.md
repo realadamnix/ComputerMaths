@@ -2,9 +2,9 @@
 
 ## graphing (2022 exam paper)
 
-## Question 2
+### Question 2
 
-### Part (a)
+#### Part (a)
 
 #### (i) g(x) = x + 3 / 5
 
