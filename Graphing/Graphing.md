@@ -1,5 +1,6 @@
+# revision
 
-# graphing (2022 exam paper)
+## graphing (2022 exam paper)
 
 ## Question 2
 
@@ -11,8 +12,9 @@ g (-8) = -8 + 5 / 5 = -5 / 5 = -1
 
 #### (ii) g(x) = 2x - 1
 
+g (3) = 2(3) - 1 = 6 - 1 = 5
 
-#### (iii) f-1(7) 
+#### (iii) f-1(7)
 
 f(x) = 3x + -5
 
@@ -46,7 +48,7 @@ x = 2
 
 ### Part (b)
 
-#### (i) 
+#### (i)
 
 y1 = 4sin2x and y2 = 2sin x
 
@@ -61,6 +63,32 @@ period of y2 = 360 / 1 = 360
 #### (ii)
 
 ![1712589859481](image/Graphing/1712589859481.png){:height="2px" width="2px"}
+
+x = 520 - 180 = 340 - 180 = 160 degrees
+
+when x = 520 degrees -> when 2x = -2.5
+
+
+| x | -3 | -2 | -1 | 0 | 1 | 2 | 3 |
+|----------|----------|----------|----------|----------|----------|----------|----------|
+| y | 13.4 |  8.15 |  4.9  |  3  |  1.8 |  1.1  |   0.67 |
+
+
+## Question 2
+
+y1 = 4sin2x and y2 = 2sin x
+
+amplitude of y1 = 4
+
+amplitude of y2 = 2
+
+period of y1 = 360 / 2 = 180
+
+period of y2 = 360 / 1 = 360
+
+#### (ii)
+
+<img src="image/revission/1712573393939.png" width="500" height="300">
 
 x = 520 - 180 = 340 - 180 = 160 degrees
 
