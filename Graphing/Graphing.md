@@ -86,9 +86,10 @@ period of y1 = 360 / 2 = 180
 
 period of y2 = 360 / 1 = 360
 
-#### (ii)
 
-<img src="image/revission/1712573393939.png" width="500" height="300">
+
+
+#### (ii)
 
 x = 520 - 180 = 340 - 180 = 160 degrees
 
